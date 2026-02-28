@@ -1,0 +1,35 @@
+{
+  "name": "followup-b4-send",
+  "version": "1.0.0",
+  "description": "Outlook add-in that prompts for follow-up reminders before sending emails",
+  "private": true,
+  "scripts": {
+    "build": "webpack --mode production",
+    "build:dev": "webpack --mode development",
+    "dev-server": "webpack serve --mode development",
+    "start": "webpack serve --mode development --open",
+    "validate": "office-addin-manifest-checker manifest.xml",
+    "lint": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@fluentui/react-components": "^9.54.0",
+    "@fluentui/react-icons": "^2.0.245",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@types/office-js": "^1.0.421",
+    "@types/react": "^18.3.12",
+    "@types/react-dom": "^18.3.1",
+    "copy-webpack-plugin": "^12.0.2",
+    "css-loader": "^7.1.2",
+    "html-webpack-plugin": "^5.6.3",
+    "office-addin-dev-certs": "^1.13.2",
+    "style-loader": "^4.0.0",
+    "ts-loader": "^9.5.1",
+    "typescript": "^5.6.3",
+    "webpack": "^5.96.1",
+    "webpack-cli": "^5.1.4",
+    "webpack-dev-server": "^5.1.0"
+  }
+}
