@@ -12,9 +12,9 @@
   <DefaultLocale>en-US</DefaultLocale>
   <DisplayName DefaultValue="Follow-up Before Send"/>
   <Description DefaultValue="Prompts you to set a follow-up reminder before sending every email."/>
-  <IconUrl DefaultValue="https://menuded.me/FollowupB4Send/assets/icon-64.png"/>
-  <HighResolutionIconUrl DefaultValue="https://menuded.me/FollowupB4Send/assets/icon-128.png"/>
-  <SupportUrl DefaultValue="https://menuded.me/FollowupB4Send"/>
+  <IconUrl DefaultValue="https://aboutkrin.github.io/FollowupB4Send/assets/icon-64.png"/>
+  <HighResolutionIconUrl DefaultValue="https://aboutkrin.github.io/FollowupB4Send/assets/icon-128.png"/>
+  <SupportUrl DefaultValue="https://aboutkrin.github.io/FollowupB4Send"/>
 
   <Hosts>
     <Host Name="Mailbox"/>
@@ -29,7 +29,7 @@
   <FormSettings>
     <Form xsi:type="ItemEdit">
       <DesktopSettings>
-        <SourceLocation DefaultValue="https://menuded.me/FollowupB4Send/taskpane.html"/>
+        <SourceLocation DefaultValue="https://aboutkrin.github.io/FollowupB4Send/taskpane.html"/>
       </DesktopSettings>
     </Form>
   </FormSettings>
@@ -82,13 +82,13 @@
 
     <Resources>
       <bt:Images>
-        <bt:Image id="Icon.16x16" DefaultValue="https://menuded.me/FollowupB4Send/assets/icon-16.png"/>
-        <bt:Image id="Icon.32x32" DefaultValue="https://menuded.me/FollowupB4Send/assets/icon-32.png"/>
-        <bt:Image id="Icon.80x80" DefaultValue="https://menuded.me/FollowupB4Send/assets/icon-80.png"/>
+        <bt:Image id="Icon.16x16" DefaultValue="https://aboutkrin.github.io/FollowupB4Send/assets/icon-16.png"/>
+        <bt:Image id="Icon.32x32" DefaultValue="https://aboutkrin.github.io/FollowupB4Send/assets/icon-32.png"/>
+        <bt:Image id="Icon.80x80" DefaultValue="https://aboutkrin.github.io/FollowupB4Send/assets/icon-80.png"/>
       </bt:Images>
       <bt:Urls>
-        <bt:Url id="Commands.Url" DefaultValue="https://menuded.me/FollowupB4Send/commands.html"/>
-        <bt:Url id="Taskpane.Url" DefaultValue="https://menuded.me/FollowupB4Send/taskpane.html"/>
+        <bt:Url id="Commands.Url" DefaultValue="https://aboutkrin.github.io/FollowupB4Send/commands.html"/>
+        <bt:Url id="Taskpane.Url" DefaultValue="https://aboutkrin.github.io/FollowupB4Send/taskpane.html"/>
       </bt:Urls>
       <bt:ShortStrings>
         <bt:String id="GroupLabel" DefaultValue="Follow-up Reminder"/>
@@ -151,13 +151,13 @@
 
       <Resources>
         <bt:Images>
-          <bt:Image id="Icon.16x16" DefaultValue="https://menuded.me/FollowupB4Send/assets/icon-16.png"/>
-          <bt:Image id="Icon.32x32" DefaultValue="https://menuded.me/FollowupB4Send/assets/icon-32.png"/>
-          <bt:Image id="Icon.80x80" DefaultValue="https://menuded.me/FollowupB4Send/assets/icon-80.png"/>
+          <bt:Image id="Icon.16x16" DefaultValue="https://aboutkrin.github.io/FollowupB4Send/assets/icon-16.png"/>
+          <bt:Image id="Icon.32x32" DefaultValue="https://aboutkrin.github.io/FollowupB4Send/assets/icon-32.png"/>
+          <bt:Image id="Icon.80x80" DefaultValue="https://aboutkrin.github.io/FollowupB4Send/assets/icon-80.png"/>
         </bt:Images>
         <bt:Urls>
-          <bt:Url id="Commands.Url" DefaultValue="https://menuded.me/FollowupB4Send/commands.html"/>
-          <bt:Url id="Taskpane.Url" DefaultValue="https://menuded.me/FollowupB4Send/taskpane.html"/>
+          <bt:Url id="Commands.Url" DefaultValue="https://aboutkrin.github.io/FollowupB4Send/commands.html"/>
+          <bt:Url id="Taskpane.Url" DefaultValue="https://aboutkrin.github.io/FollowupB4Send/taskpane.html"/>
         </bt:Urls>
         <bt:ShortStrings>
           <bt:String id="GroupLabel" DefaultValue="Follow-up Reminder"/>
